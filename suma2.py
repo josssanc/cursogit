@@ -1,0 +1,2 @@
+print("Lo que sea")
+
